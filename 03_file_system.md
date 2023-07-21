@@ -8,7 +8,6 @@ Nội dung:
 - Các lệnh để di chuyển qua các thư mục (`cd` )
 - Các option với lệnh `ls`
 
-
 ## 1. Cấu trúc thư mục trong Linux, ý nghĩa của thư mục chính
 
 ![https://media.geeksforgeeks.org/wp-content/uploads/20230516105759/151.webp](https://media.geeksforgeeks.org/wp-content/uploads/20230516105759/151.webp)
