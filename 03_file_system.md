@@ -25,13 +25,19 @@ Nội dung:
 
 - Lưu trữ các file cần thiết để Linux khởi động
 
+![https://github.com/UocNTh/Learn-Linux/blob/main/Image/boot.png?raw=true](https://github.com/UocNTh/Learn-Linux/blob/main/Image/boot.png?raw=true)
+
 ********/dev********
 
 - Các file thiết bị cần thiết - nơi lưu trữ các phân vùng ổ cứng, thiết bị ngoại vi như usb hoặc bất cứ thiết bị nào được cắm vào hệ thống
 
+![https://github.com/UocNTh/Learn-Linux/blob/main/Image/dev.png?raw=true](https://github.com/UocNTh/Learn-Linux/blob/main/Image/dev.png?raw=true)
+
 ********/etc******** 
 
 - Các file cấu hình cho các chương trình hoạt động. Thường là những tệp tin dạng text thường.
+
+![https://github.com/UocNTh/Learn-Linux/blob/main/Image/etc.png?raw=true](https://github.com/UocNTh/Learn-Linux/blob/main/Image/etc.png?raw=true)
 
 ************/home************ 
 
@@ -40,6 +46,8 @@ Nội dung:
 **/lib** 
 
 - Chứa các tập tin thư viện để hỗ trợ các tập tin thực thi được lưu trong */bin* và */sbin*
+
+![https://github.com/UocNTh/Learn-Linux/blob/main/Image/lib.png?raw=true](https://github.com/UocNTh/Learn-Linux/blob/main/Image/lib.png?raw=true)
 
 ******/lost+found****** 
 
@@ -120,11 +128,12 @@ Hệ thống phân cấp phụ cho dữ liệu người dùng chỉ đọc; ch�
 
 ## 4. Các lệnh để di chuyển qua các thư mục (`cd` )
 
-| cd | Chuyển về thư mục gốc /root  |
+| Command | Description |
 | --- | --- |
+| cd | Chuyển về thư mục gốc /root  |
 | cd [directory] | Chuyển đến thư mục yêu cầu  |
 | cd .. | Chuyển về thư mục cha của thư mục hiện tại  |
-| cd - | Chuyển về thư mục vừa rời đi  |
+| cd - | Chuyển về thư mục vừa rời đi Co |
 
 ---
 
@@ -132,8 +141,9 @@ Hệ thống phân cấp phụ cho dữ liệu người dùng chỉ đọc; ch�
 
 Xem các option của lệnh ls : man ls
 
-| ls | Liệt kê các tệp tin tại thư mục hiện tại  |
+| Command | Description |
 | --- | --- |
+| ls | Liệt kê các tệp tin tại thư mục hiện tại  |
 | ls -a  | Liệt kê các tệp tin kể cả tệp tin ẩn bắt đầu bằng ‘.’ |
 | ls - l | Hiển thị tệp hoặc thư mục, kích thước, ngày, thời gian đã sửa đổi, tên tệp hoặc tên thư mục và chủ sở hữu (owner) tệp file và đó là sự cho phép (permission). |
 
@@ -152,3 +162,5 @@ Nguồn tham khảo:
 Câu hỏi: 
 
 - Phân biệt giữa /media và /mnt ?
+
+[https://github.com/UocNTh/Learn-Linux/blob/main/Image/dev.png?raw=true](https://github.com/UocNTh/Learn-Linux/blob/main/Image/dev.png?raw=true)
