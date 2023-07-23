@@ -162,5 +162,3 @@ Nguồn tham khảo:
 Câu hỏi: 
 
 - Phân biệt giữa /media và /mnt ?
-
-[https://github.com/UocNTh/Learn-Linux/blob/main/Image/dev.png?raw=true](https://github.com/UocNTh/Learn-Linux/blob/main/Image/dev.png?raw=true)
