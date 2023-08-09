@@ -26,4 +26,5 @@ crontab -l
 0 0 1 1 * rsync -av /home/toe /home/backup/$(date +\%Y\%m\%d)
 ```
 
+
 Backup thư mục /home/toe mỗi năm một lần vào ngày 01/01
