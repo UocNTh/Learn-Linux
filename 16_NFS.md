@@ -1,4 +1,5 @@
 
+
 # NFS - Thực hành
 
 Nội dung tìm hiểu: 
@@ -202,3 +203,8 @@ total 0
 192.168.25.225:/var/nfs/dir_share    /nfs/dir_share   nfs auto,nofail,noatime,nolock,intr,tcp,actimeo=1800 0 0
 192.168.25.225:/home               /nfs/home      nfs auto,nofail,noatime,nolock,intr,tcp,actimeo=1800 0 0
 ```
+
+---
+
+Nguồn tham khảo: 
+[Thực hành](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-nfs-mount-on-ubuntu-20-04)
